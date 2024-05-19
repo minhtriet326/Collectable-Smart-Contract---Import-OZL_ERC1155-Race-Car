@@ -1,0 +1,27 @@
+{
+    "name": "Second car",
+    "description": "This is my second car",
+    "image": "https://ipfs.io/ipfs/QmZAtiGFVroM9CVYJPnHoKnxuVnSWvbxQGqTwXB2CuAPsF/2.jpg",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 2,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Control",
+            "value": 4,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Nitro",
+            "value": 8,
+            "max_value": 10
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Tenth car",
+    "description": "This is my tenth car",
+    "image": "https://ipfs.io/ipfs/QmZAtiGFVroM9CVYJPnHoKnxuVnSWvbxQGqTwXB2CuAPsF/10.jpg",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Control",
+            "value": 3,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": 2,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Nitro",
+            "value": 5,
+            "max_value": 10
+        }
+    ]
+}

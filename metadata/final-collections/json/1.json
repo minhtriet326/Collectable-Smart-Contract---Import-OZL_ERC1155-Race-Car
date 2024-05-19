@@ -1,0 +1,27 @@
+{
+    "name": "First car",
+    "description": "This is my first car",
+    "image": "https://ipfs.io/ipfs/QmZAtiGFVroM9CVYJPnHoKnxuVnSWvbxQGqTwXB2CuAPsF/1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 1,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Control",
+            "value": 4,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": 8,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Nitro",
+            "value": 7,
+            "max_value": 10
+        }
+    ]
+}

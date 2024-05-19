@@ -1,0 +1,27 @@
+{
+    "name": "Fourth car",
+    "description": "This is my fourth car",
+    "image": "https://ipfs.io/ipfs/QmZAtiGFVroM9CVYJPnHoKnxuVnSWvbxQGqTwXB2CuAPsF/4.jpg",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 4,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Control",
+            "value": 6,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": 8,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Nitro",
+            "value": 2,
+            "max_value": 10
+        }
+    ]
+}

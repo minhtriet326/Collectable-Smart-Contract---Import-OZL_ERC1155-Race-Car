@@ -1,0 +1,50 @@
+{
+    "name": "Le Phuong Tuyet Lake 1",
+    "description": "white brown flower build lake look up",
+    "image": "https://ipfs.io/ipfs/QmTxCg74DvB9UACTKhTAHvvwZpNUw5HK9bSbh5i9UYFcFB",
+    "attributes": [
+        {
+            "trait_type": "Speed",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Control",
+            "value": 4,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Acceleration",
+            "value": 8,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Nitro",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Speed",
+            "value": 1
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "Control",
+            "value": 20
+        },
+        {
+            "display_type": "number",
+            "trait_type": "Generation",
+            "value": 1
+        },
+        {
+            "trait_type": "Original",
+            "value": "True"
+        },
+        {
+            "trait_type": "Upgradable",
+            "value": "True"
+        }
+    ]
+}
